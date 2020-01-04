@@ -1,2 +1,2 @@
 # AsliGuru
-Asliguru is a digital educational content streaming app.
+Asliguru is a flutter based digital educational content streaming app.
